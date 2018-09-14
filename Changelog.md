@@ -1,5 +1,7 @@
 # Changelog (ab a.1.0)
 
+a.1.3 : Folientastatur implementiert, Menünavigation mit * und # taste auch möglich
+
 a.1.2 : LCD-Menü optimiert und angepasst, Bug behoben: unnötige Stellen auf dem LCD werden entfernt
 
 a.1.1 : Buttonverarbeitung verbessert, Bugfixes
