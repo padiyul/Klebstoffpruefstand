@@ -60,3 +60,12 @@
           Pin 6     -   Pin 2 |GPB1
           Pin 7     -   Pin 3 |GPB2
           Pin 8     -   Pin 4 |GPB3
+     -Anmeldung:
+       -Schlüsselschalter zu Arduino:
+          Pin 1     -   Über Pulldown-Wiederstand zu GND
+          Pin 1     -   2
+          Pin 2     -   5V
+       -Offline Schalter zu Arduino:
+          Pin 1     -   Über Pulldown-Wiederstand zu GND
+          Pin 1     -   3
+          Pin 2     -   5V
