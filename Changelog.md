@@ -1,5 +1,7 @@
 # Changelog (ab a.1.0)
 
+b.1.0.0 : Klebstoffprüfungslogik hinzugefügt, Speicherausnutzung optimiert
+
 a.2.0 : Schlüsselschalter und PC-Autorisierung hinzugefügt, Hardwareanforderungen nicht rückkompatibel, siehe README für aktuelle Anschlussanweisungen
 
 a.1.3 : Folientastatur implementiert, Menünavigation mit * und # taste auch möglich
