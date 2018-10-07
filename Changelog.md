@@ -1,5 +1,11 @@
 # Changelog (ab a.1.0)
 
+b.1.0.3 : bugfixes: aufhängen des Arduino, falsch angezeigte Werte, overflow von Variablen; Behoben.
+
+b.1.0.2 : Serielle Kommunikation upgedatet
+
+b.1.0.1 : bugfixes
+
 b.1.0.0 : Klebstoffprüfungslogik hinzugefügt, Speicherausnutzung optimiert
 
 a.2.0 : Schlüsselschalter und PC-Autorisierung hinzugefügt, Hardwareanforderungen nicht rückkompatibel, siehe README für aktuelle Anschlussanweisungen
