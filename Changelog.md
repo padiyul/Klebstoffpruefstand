@@ -1,5 +1,7 @@
 # Changelog (ab a.1.0)
 
+b.1.2.1 : EEPROM-Schreibvorgang wird mit Speicheranimation bestätigt, saubere anzeige
+
 b.1.2.0 : Kalibrierungsfaktor kann im EEPROM gespeichert und ausgelesen werden, unsaubere anzeige!
 
 b.1.1.0 : Verwendeter Sensor kann im EEPROM gespeichert werden, erhält ausgewählten Sensor auch bei rebooten des Systems
