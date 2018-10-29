@@ -12,3 +12,5 @@
   <HX711.h> hier herunterladen: https://github.com/bogde/HX711
   
   <LiquidCrystal_I2C.h> hier herunterladen: https://github.com/marcoschwartz/LiquidCrystal_I2C
+
+  Genaue anweisung siehe Anleitung
