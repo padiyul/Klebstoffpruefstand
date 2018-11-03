@@ -1,5 +1,9 @@
 # Changelog (ab a.1.0)
 
+v.0.0.1 : Motoransteuerung Bug behoben
+
+b.2.0.0 : Motoransteuerung an Relaiskarte angepasst
+
 b.1.2.1 : EEPROM-Schreibvorgang wird mit Speicheranimation bestätigt, saubere anzeige
 
 b.1.2.0 : Kalibrierungsfaktor kann im EEPROM gespeichert und ausgelesen werden, unsaubere anzeige!
