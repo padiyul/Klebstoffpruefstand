@@ -1,5 +1,7 @@
 # Changelog (ab a.1.0)
 
+v.1.0.0 : Funktionen kommentiert, unnötige Code-Teile entfernt
+
 v.0.1.0 : Kontoll LEDs am UI eigebunden, Bug bei Belastungsanzeige behoben
 
 v.0.0.1 : Motoransteuerung Bug behoben
@@ -29,4 +31,3 @@ a.1.2 : LCD-Menü optimiert und angepasst, Bug behoben: unnötige Stellen auf de
 a.1.1 : Buttonverarbeitung verbessert, Bugfixes
 
 a.1.0 : Navigation durch Menüs und Manipulation von Menüs möglich. Grundlegende Funktionen hinzugefügt: Waage, Sensor Auswahl, Sensor kalibrieren
-
