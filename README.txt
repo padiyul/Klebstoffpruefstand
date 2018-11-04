@@ -13,4 +13,4 @@
   
   <LiquidCrystal_I2C.h> hier herunterladen: https://github.com/marcoschwartz/LiquidCrystal_I2C
 
-  Genaue anweisung siehe Anleitung
+  Genaue Anweisung siehe Anleitung
