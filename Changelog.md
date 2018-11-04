@@ -1,5 +1,7 @@
 # Changelog (ab a.1.0)
 
+v.0.1.0 : Kontoll LEDs am UI eigebunden, Bug bei Belastungsanzeige behoben
+
 v.0.0.1 : Motoransteuerung Bug behoben
 
 b.2.0.0 : Motoransteuerung an Relaiskarte angepasst
