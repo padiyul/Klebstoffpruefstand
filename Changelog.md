@@ -1,5 +1,7 @@
 # Changelog (ab a.1.0)
 
+v.1.1.0 : Tarafunktion auf der Folientastatur unter der B-Taste hinzugefügt, Redundanz zum Bedienfeld
+
 v.1.0.1 : Bugfixes
 
 v.1.0.0 : Funktionen kommentiert, unnötige Code-Teile entfernt
