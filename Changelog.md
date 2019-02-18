@@ -1,5 +1,7 @@
 # Changelog (ab a.1.0)
 
+v.1.0.1 : Bugfixes
+
 v.1.0.0 : Funktionen kommentiert, unnötige Code-Teile entfernt
 
 v.0.1.0 : Kontoll LEDs am UI eigebunden, Bug bei Belastungsanzeige behoben
